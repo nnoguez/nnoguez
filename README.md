@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nnoguez or just naomy :)
+- 👋 Hi, I’m @nnoguez or naomy :)
 - 👀 I’m interested in ... web design and hci!
 - 🌱 I’m currently learning ... javascript and some more html/css
 - 💞️ I’m looking to collaborate on ... anything that can help strenghten my programming skills
